@@ -1,0 +1,11 @@
+
+
+#pageBox{
+    justify-content: center;
+    display: flex;
+}
+
+#newPostInputForm{
+    display: flex;
+    flex-direction: column;
+}
